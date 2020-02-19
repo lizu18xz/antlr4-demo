@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ANTLRGenerationPreferences">
+    <option name="perGrammarGenerationSettings">
+      <list>
+        <PerGrammarGenerationSettings>
+          <option name="fileName" value="$PROJECT_DIR$/src/main/resources/Dsl.g4" />
+          <option name="autoGen" value="true" />
+          <option name="outputDir" value="E:\Ideljava\githubWork\antlr4-demo\src\main\java\antlr4" />
+          <option name="libDir" value="" />
+          <option name="encoding" value="utf8" />
+          <option name="pkg" value="" />
+          <option name="language" value="Java" />
+        </PerGrammarGenerationSettings>
+        <PerGrammarGenerationSettings>
+          <option name="fileName" value="$PROJECT_DIR$/src/main/resources/DslExpr.g4" />
+          <option name="autoGen" value="true" />
+          <option name="outputDir" value="E:\Ideljava\githubWork\antlr4-demo\src\main\java\antlr4ExprVisit" />
+          <option name="libDir" value="" />
+          <option name="encoding" value="utf8" />
+          <option name="pkg" value="" />
+          <option name="language" value="Java" />
+          <option name="generateListener" value="false" />
+          <option name="generateVisitor" value="true" />
+        </PerGrammarGenerationSettings>
+        <PerGrammarGenerationSettings>
+          <option name="fileName" value="$PROJECT_DIR$/src/main/resources/mul.g4" />
+          <option name="autoGen" value="true" />
+          <option name="outputDir" value="E:\Ideljava\githubWork\antlr4-demo\src\main\java\antlr4mul" />
+          <option name="libDir" value="" />
+          <option name="encoding" value="utf8" />
+          <option name="pkg" value="" />
+          <option name="language" value="Java" />
+          <option name="generateVisitor" value="true" />
+        </PerGrammarGenerationSettings>
+        <PerGrammarGenerationSettings>
+          <option name="fileName" value="$PROJECT_DIR$/src/main/resources/Mul.g4" />
+          <option name="autoGen" value="true" />
+          <option name="outputDir" value="E:\Ideljava\githubWork\antlr4-demo\src\main\java\antlr4mul" />
+          <option name="libDir" value="" />
+          <option name="encoding" value="utf8" />
+          <option name="pkg" value="" />
+          <option name="language" value="Java" />
+          <option name="generateVisitor" value="true" />
+        </PerGrammarGenerationSettings>
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
